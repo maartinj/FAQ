@@ -1,0 +1,86 @@
+[
+  {
+    "link" : {
+      "title" : "Show Example",
+      "url" : "FolderHTML"
+    },
+    "sortOrder" : 3,
+    "level" : 1,
+    "question" : "Can I display more complex html pages?",
+    "answer" : "Yes. Just create a folder within the html folder and make sure your start page is titled 'index.html'",
+    "linkType" : "Local Link"
+  },
+  {
+    "linkType" : "External Link",
+    "link" : {
+      "url" : "https:\/\/youtube.com\/@StewartLynch",
+      "title" : "Stewart Lynch on YouTube"
+    },
+    "sortOrder" : 2,
+    "answer" : "There are lots of great resources out there.  100DaysOfSwiftUI by Paul Hudson is a great place to start but you also might like to watch videos created by Stewart Lynch who focusses on this topic.",
+    "level" : 2,
+    "question" : "I am interested in learning how to develop applications in SwiftUI.  Do you have any suggestions for learning?"
+  },
+  {
+    "sortOrder" : 1,
+    "answer" : "You can choose 'New Application' from the File Menu.",
+    "level" : 1,
+    "linkType" : "none",
+    "question" : "How can I add more items to the application?"
+  },
+  {
+    "answer" : "The developer is Stewart Lynch and you can find out more about him from his web site",
+    "linkType" : "External Link",
+    "link" : {
+      "title" : "CreaTECH Solutions",
+      "url" : "http:\/\/www.createchsol.com"
+    },
+    "level" : 1,
+    "sortOrder" : 6,
+    "question" : "Where can I find more information about the developer?"
+  },
+  {
+    "question" : "Can I add my own html pages to my FAQs",
+    "sortOrder" : 2,
+    "level" : 1,
+    "answer" : "Yes, the simplest type is the single html page with no images.",
+    "linkType" : "Local Link",
+    "link" : {
+      "title" : "Show Example",
+      "url" : "Sample.html"
+    }
+  },
+  {
+    "level" : 1,
+    "sortOrder" : 5,
+    "answer" : "I have an M2 Mac Mini with a 39\" display and external monitor as well. I use an Elgato teleprompter for my videos too. Take a look at my setup",
+    "linkType" : "Local Image",
+    "link" : {
+      "url" : "DevDesktop.jpeg",
+      "title" : "View Setup"
+    },
+    "question" : "What is your home hardware setup?"
+  },
+  {
+    "link" : {
+      "url" : "ShowRoute.mp4",
+      "title" : "Play Video"
+    },
+    "sortOrder" : 4,
+    "level" : 1,
+    "question" : "How do can I get the time it takes to go from my current location to one of my placemarks and display the route?",
+    "answer" : "In the Current Location tab, tap on the destination and when the destination detail view appears, you will see the time at the tip and then you can tap the \"Show Route\" button to have it plotted on the map.",
+    "linkType" : "Local Video"
+  },
+  {
+    "linkType" : "External Link",
+    "link" : {
+      "title" : "CreaTECH App Portfolio",
+      "url" : "https:\/\/www.createchsol.com\/appPortfolio\/"
+    },
+    "level" : 2,
+    "question" : "Does this developer have more applications?",
+    "answer" : "Yes, this developer has created many applications.  You can find out more about them on his web site.  See the link below",
+    "sortOrder" : 1
+  }
+]
