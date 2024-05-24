@@ -1,9 +1,72 @@
 [
   {
-    "answer" : "Das PillMemo-Team arbeitet derzeit daran, einen umfassenden FAQ-Bereich bereitzustellen. Diese Funktion befindet sich noch im Aufbau, wird aber bald verfügbar sein. Bleiben Sie dran für Updates und vielen Dank für Ihre Geduld!",
-    "sortOrder" : 1,
+    "answer" : "Wenn Sie eine Dosis verpassen, sendet PillMemo keine Folgeerinnerung, es sei denn, Sie halten die entsprechende Benachrichtigung mit Ihrem Finger gedrückt (die Optionen zum Aufschieben der Erinnerung erscheinen). Sie können die verpasste Dosis auch nicht in der App protokollieren (dies ist für zukünftige Versionen geplant).",
+    "sortOrder" : 6,
+    "question" : "Was passiert, wenn ich eine Dosis verpasse?",
+    "linkType" : "none",
+    "level" : 1
+  },
+  {
     "level" : 1,
-    "question" : "FAQ-Bereich kommt bald!",
+    "sortOrder" : 3,
+    "answer" : "Ja, Sie können mehrere Medikamente hinzufügen. Jedes Medikament kann seinen eigenen Plan und Erinnerungseinstellungen haben. Wiederholen Sie einfach den Vorgang im Bereich ‘Neues Medikament’ für jedes neue Medikament.",
+    "linkType" : "none",
+    "question" : "Kann ich mehrere Medikamente hinzufügen?"
+  },
+  {
+    "answer" : "Ihre persönlichen und Medikamenteninformationen werden sicher auf Ihrem Gerät gespeichert und nicht ohne Ihre Zustimmung an Dritte weitergegeben.",
+    "question" : "Wie sicher sind meine Daten?",
+    "level" : 1,
+    "sortOrder" : 8,
+    "linkType" : "none"
+  },
+  {
+    "level" : 1,
+    "sortOrder" : 4,
+    "answer" : "Um ein Medikament zu bearbeiten oder zu löschen:\n\n1. Gehen Sie zum Bereich ‘Startseite’.\n2. Wählen Sie das Medikament, das Sie bearbeiten oder löschen möchten.\n3. Wenn Sie Daten bearbeiten möchten, ändern Sie, was Sie möchten (Name, Häufigkeit, Art, Zeit usw.).\n4. Tippen Sie auf die Schaltfläche ‘Fertig’, um die Änderungen zu speichern, oder auf das Löschsymbol, um das Medikament aus Ihrer Liste zu entfernen.",
+    "linkType" : "none",
+    "question" : "Wie bearbeite oder lösche ich ein Medikament?"
+  },
+  {
+    "sortOrder" : 2,
+    "linkType" : "none",
+    "level" : 1,
+    "question" : "Wie richte ich meinen Medikamentenplan ein?",
+    "answer" : "Um Ihren Medikamentenplan einzurichten:\n\n1. Öffnen Sie die App und navigieren Sie zum Button ‘Neues Medikament’.\n2. Geben Sie den Namen des Medikaments, die Häufigkeit und die Art ein.\n3. Stellen Sie die genauen Zeiten ein, zu denen Sie das Medikament einnehmen müssen.\n4. Speichern Sie den Plan. Die App wird Sie nun an den spezifischen Tag und die Uhrzeit erinnern."
+  },
+  {
+    "level" : 2,
+    "answer" : "Derzeit bietet PillMemo eine kostenlose Version mit grundlegenden Funktionen an. Es gibt die Möglichkeit, den Entwickler durch eine Spende zu unterstützen, die in der Ansicht ‘Startseite’ verfügbar ist. Premium-Funktionen werden in zukünftigen Versionen in Betracht gezogen.",
+    "linkType" : "none",
+    "sortOrder" : 2,
+    "question" : "Ist PillMemo kostenlos?"
+  },
+  {
+    "question" : "Kann ich PillMemo mit anderen Gesundheits-Apps oder -Geräten synchronisieren?",
+    "level" : 1,
+    "sortOrder" : 7,
+    "linkType" : "none",
+    "answer" : "Derzeit unterstützt PillMemo die Synchronisierung mit einem iCloud-Konto. Um dies zu aktivieren:\n\n1. Stellen Sie sicher, dass Sie Ihr iCloud-Konto mit Ihrem Gerät synchronisiert haben.\n2. Gehen Sie zur Ansicht ‘Startseite’.\n3. Wechseln Sie zwischen den Registerkarten und warten Sie ein paar Minuten in der Ansicht Startseite. Danach werden die Daten synchronisiert und die Integration abgeschlossen."
+  },
+  {
+    "level" : 1,
+    "linkType" : "none",
+    "answer" : "PillMemo ist eine mobile Anwendung, die entwickelt wurde, um Benutzern zu helfen, ihren Medikamentenplan zu verwalten, indem sie rechtzeitige Erinnerungen an die Einnahme ihrer Medikamente bietet. PillMemo ist für iOS-Geräte verfügbar und zielt darauf ab, die Medikamenteneinnahme und die allgemeine Gesundheit zu verbessern.",
+    "sortOrder" : 1,
+    "question" : "Was ist PillMemo?"
+  },
+  {
+    "sortOrder" : 1,
+    "answer" : "Wenn Sie auf Probleme stoßen oder Fragen haben, können Sie unser Support-Team über PillMemo kontaktieren:\n\n1. Öffnen Sie die App und gehen Sie zum Tab ‘Einstellungen’ und tippen Sie auf den Bereich ‘E-Mail-Hilfe’.\n2. Füllen Sie das Kontaktformular aus oder verwenden Sie die angegebene E-Mail-Adresse, um unser Support-Team zu erreichen.",
+    "question" : "Wie kontaktiere ich den Support, wenn ich Probleme mit PillMemo habe?",
+    "linkType" : "none",
+    "level" : 2
+  },
+  {
+    "question" : "Welche Arten von Erinnerungen bietet PillMemo?",
+    "sortOrder" : 5,
+    "level" : 1,
+    "answer" : "PillMemo bietet ‘Push-Benachrichtigungen’, die Sie direkt für das jeweilige Medikament im Bereich ‘Startseite’ anpassen können. Es gibt zwei Optionen für Erinnerungen zum Aufschieben - ‘Erinnern in 15 Minuten’ und ‘Erinnern in 30 Minuten’, wenn Sie die entsprechende Benachrichtigung mit Ihrem Finger gedrückt halten.",
     "linkType" : "none"
   }
 ]

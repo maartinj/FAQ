@@ -1,9 +1,72 @@
 [
   {
-    "question" : "FAQ Section Coming Soon!",
+    "sortOrder" : 2,
+    "answer" : "Currently, PillMemo offers a free version with basic features. There is option to support developer by sending the donation located in 'Home' view. Premium features will be considered in future releases.",
+    "level" : 2,
+    "question" : "Is PillMemo free to use?",
+    "linkType" : "none"
+  },
+  {
     "level" : 1,
-    "sortOrder" : 1,
+    "answer" : "Yes, you can add multiple medications. Each medication can have its own schedule and reminder settings. Simply repeat the process in the 'New Medicine' section for each new medication.",
     "linkType" : "none",
-    "answer" : "We are currently working on bringing a comprehensive FAQ section. This feature is still under construction, but it will be available soon. Stay tuned for updates and thank you for your patience!"
+    "question" : "Can I add multiple medications?",
+    "sortOrder" : 3
+  },
+  {
+    "sortOrder" : 5,
+    "linkType" : "none",
+    "level" : 1,
+    "question" : "What types of reminders does PillMemo provide?",
+    "answer" : "'Push notifications' you can customize directly for proper medicine in 'Home' section.\n'Snooze options for reminders' are two to choose - 'Remind in 15 minutes' and 'Remind in 30 minutes' if you will hold with your finger the proper notification."
+  },
+  {
+    "sortOrder" : 2,
+    "question" : "How do I set up my medication schedule?",
+    "level" : 1,
+    "linkType" : "none",
+    "answer" : "To set up your medication schedule:\n\n1. Open the app and navigate to the 'New Medicine' button.\n2. Enter the name of the medicine, frequency and type.\n3. Set the specific times you need to take the medication.\n4. Save the schedule. The app will now remind you at the specific day of the week and time."
+  },
+  {
+    "level" : 1,
+    "answer" : "PillMemo is a mobile application designed to help users manage their medication schedules by providing timely reminders to take their medicine. PillMemo is available for iOS devices and aims to improve medication adherence and overall health.",
+    "linkType" : "none",
+    "question" : "What is PillMemo?",
+    "sortOrder" : 1
+  },
+  {
+    "linkType" : "none",
+    "answer" : "If you miss a dose, PillMemo will not send a follow-up reminder, unless you will hold with your finger the proper notification ('Snooze options for reminders' will appear). You cannot also log the missed dose in the app (this is planned for future release).",
+    "sortOrder" : 6,
+    "question" : "What if I miss a dose?",
+    "level" : 1
+  },
+  {
+    "linkType" : "none",
+    "question" : "How do I contact support if I have issues with PillMemo?",
+    "sortOrder" : 1,
+    "level" : 2,
+    "answer" : "If you encounter any issues or have questions, you can contact our support team through PillMemo:\n\n1. Open the app and go to the 'Settings' tab and tap 'Email Help' section.\n2. Fill out the contact form or use the provided email address to reach our support team."
+  },
+  {
+    "sortOrder" : 4,
+    "question" : "How do I edit or delete a medication?",
+    "answer" : "To edit or delete a medication:\n\n1. Go to the 'Home' section.\n2. Select the medication you want to edit or delete.\n3. If want to edit data, change what you want (name, frequency, type, time etc.).\n4. Tap on the 'Done' button to save changes or the delete icon to remove the medication from your list.",
+    "linkType" : "none",
+    "level" : 1
+  },
+  {
+    "sortOrder" : 8,
+    "answer" : "Your personal and medication information is stored securely on your device and is not shared with third parties without your consent.",
+    "question" : "How secure is my data?",
+    "linkType" : "none",
+    "level" : 1
+  },
+  {
+    "linkType" : "none",
+    "sortOrder" : 7,
+    "question" : "Can I sync PillMemo with other health apps or devices?",
+    "level" : 1,
+    "answer" : "Currently, PillMemo supports syncing with iCloud account. To enable this:\n\n1. Make sure that you have synced your iCloud account with your device.\n2. Go to the 'Home' view.\n3. Toggle between tabs and wait a few minutes in the Home view. After that action, data will be synced and integration will be completed."
   }
 ]
