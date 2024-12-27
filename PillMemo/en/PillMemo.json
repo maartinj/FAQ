@@ -1,72 +1,72 @@
 [
   {
-    "sortOrder" : 2,
-    "answer" : "Currently, PillMemo offers a free version with basic features. There is option to support developer by sending the donation located in 'Home' view. Premium features will be considered in future releases.",
-    "level" : 2,
-    "question" : "Is PillMemo free to use?",
-    "linkType" : "none"
+    "level": 1,
+    "sortOrder": 1,
+    "linkType": "none",
+    "question": "What is PillMemo?",
+    "answer": "PillMemo is a mobile application designed to help users manage their medication schedules by providing timely reminders to take their medicine. PillMemo is available on iOS devices and aims to improve compliance with medication guidelines and overall health."
   },
   {
-    "level" : 1,
-    "answer" : "Yes, you can add multiple medications. Each medication can have its own schedule and reminder settings. Simply repeat the process in the 'New Medicine' section for each new medication.",
-    "linkType" : "none",
-    "question" : "Can I add multiple medications?",
-    "sortOrder" : 3
+    "level": 1,
+    "sortOrder": 2,
+    "linkType": "none",
+    "question": "How can I set my medication schedule?",
+    "answer": "To set up your medication schedule:\n\n1. Open the app and go to the ‘New Medication’ button.\n2. Enter the name of the medication, its frequency, and type.\n3. Set a specific time for when you need to take the medication.\n4. Save the schedule. The app will now remind you to take the medication on the designated day and time."
   },
   {
-    "sortOrder" : 5,
-    "linkType" : "none",
-    "level" : 1,
-    "question" : "What types of reminders does PillMemo provide?",
-    "answer" : "'Push notifications' you can customize directly for proper medicine in 'Home' section.\n'Snooze options for reminders' are two to choose - 'Remind in 15 minutes' and 'Remind in 30 minutes' if you will hold with your finger the proper notification."
+    "level": 1,
+    "sortOrder": 3,
+    "linkType": "none",
+    "question": "Can I add multiple medications?",
+    "answer": "Yes, you can add multiple medications. Each medication can have its own schedule and reminder settings. Simply repeat the process in the ‘New Medication’ section for each new medication.\n NOTE! This option is available in the Premium version of the PillMemo app."
   },
   {
-    "sortOrder" : 2,
-    "question" : "How do I set up my medication schedule?",
-    "level" : 1,
-    "linkType" : "none",
-    "answer" : "To set up your medication schedule:\n\n1. Open the app and navigate to the 'New Medicine' button.\n2. Enter the name of the medicine, frequency and type.\n3. Set the specific times you need to take the medication.\n4. Save the schedule. The app will now remind you at the specific day of the week and time."
+    "level": 1,
+    "sortOrder": 4,
+    "linkType": "none",
+    "question": "How can I edit or delete a medication?",
+    "answer": "To edit or delete a medication:\n\n1. Go to the ‘Home’ section.\n2. Select the medication you want to edit or delete.\n3. If you want to edit the details, make the necessary changes (name, frequency, type, time, etc.).\n4. Tap the ‘Done’ button to save the changes or the delete icon '🗑️' to remove the medication from the list."
   },
   {
-    "level" : 1,
-    "answer" : "PillMemo is a mobile application designed to help users manage their medication schedules by providing timely reminders to take their medicine. PillMemo is available for iOS devices and aims to improve medication adherence and overall health.",
-    "linkType" : "none",
-    "question" : "What is PillMemo?",
-    "sortOrder" : 1
+    "level": 1,
+    "sortOrder": 5,
+    "linkType": "none",
+    "question": "What types of reminders does PillMemo offer?",
+    "answer": "PillMemo offers ‘push notifications’ that you can customize directly for the relevant medication in the ‘Home’ section. There are two snooze options for reminders - ‘Remind in 15 minutes’ and ‘Remind in 30 minutes’ if you hold down the corresponding notification."
   },
   {
-    "linkType" : "none",
-    "answer" : "If you miss a dose, PillMemo will not send a follow-up reminder, unless you will hold with your finger the proper notification ('Snooze options for reminders' will appear). You cannot also log the missed dose in the app (this is planned for future release).",
-    "sortOrder" : 6,
-    "question" : "What if I miss a dose?",
-    "level" : 1
+    "level": 1,
+    "sortOrder": 6,
+    "linkType": "none",
+    "question": "What if I miss a dose?",
+    "answer": "If you miss a dose, PillMemo will not send an additional reminder unless you hold down the corresponding notification (snooze options will appear). PillMemo does not log missed medication doses."
   },
   {
-    "linkType" : "none",
-    "question" : "How do I contact support if I have issues with PillMemo?",
-    "sortOrder" : 1,
-    "level" : 2,
-    "answer" : "If you encounter any issues or have questions, you can contact our support team through PillMemo:\n\n1. Open the app and go to the 'Settings' tab and tap 'Email Help' section.\n2. Fill out the contact form or use the provided email address to reach our support team."
+    "level": 1,
+    "sortOrder": 7,
+    "linkType": "none",
+    "question": "Can I sync PillMemo with other devices?",
+    "answer": "Currently, PillMemo supports synchronization with an iCloud account. To enable this:\n\n1. Ensure you have synced your iCloud account with your device.\n2. Go to the ‘Home’ view.\n3. Switch between tabs and wait a few minutes in the 'Home' view. After this, the data will be synced, and the integration will be completed."
   },
   {
-    "sortOrder" : 4,
-    "question" : "How do I edit or delete a medication?",
-    "answer" : "To edit or delete a medication:\n\n1. Go to the 'Home' section.\n2. Select the medication you want to edit or delete.\n3. If want to edit data, change what you want (name, frequency, type, time etc.).\n4. Tap on the 'Done' button to save changes or the delete icon to remove the medication from your list.",
-    "linkType" : "none",
-    "level" : 1
+    "level": 1,
+    "sortOrder": 8,
+    "linkType": "none",
+    "question": "How secure is my data?",
+    "answer": "Your personal data and medication information are securely stored on your device and are not shared with third parties without your consent."
   },
   {
-    "sortOrder" : 8,
-    "answer" : "Your personal and medication information is stored securely on your device and is not shared with third parties without your consent.",
-    "question" : "How secure is my data?",
-    "linkType" : "none",
-    "level" : 1
+    "level": 2,
+    "sortOrder": 1,
+    "linkType": "none",
+    "question": "How can I contact technical support if I have problems with PillMemo?",
+    "answer": "If you encounter any issues or have questions, you can contact our support team through PillMemo:\n\n1. Open the app and go to the ‘Settings’ tab, then tap the ‘Help Email’ section.\n2. Fill out the contact form or use the provided email address to reach our support team."
   },
   {
-    "linkType" : "none",
-    "sortOrder" : 7,
-    "question" : "Can I sync PillMemo with other health apps or devices?",
-    "level" : 1,
-    "answer" : "Currently, PillMemo supports syncing with iCloud account. To enable this:\n\n1. Make sure that you have synced your iCloud account with your device.\n2. Go to the 'Home' view.\n3. Toggle between tabs and wait a few minutes in the Home view. After that action, data will be synced and integration will be completed."
+    "level": 2,
+    "sortOrder": 2,
+    "linkType": "none",
+    "question": "Is PillMemo free?",
+    "answer": "Currently, PillMemo offers a free version with the ability to add one medication and basic features. The 'Premium' features are described in the 'Buy PillMemo Pro' section. There is also an option to support the developer via a 'piggy bank' located in the ‘Home’ view."
   }
 ]
