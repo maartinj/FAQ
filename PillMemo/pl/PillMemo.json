@@ -1,72 +1,72 @@
 [
   {
-    "sortOrder" : 2,
-    "question" : "Jak mogę ustawić mój harmonogram przyjmowania leków?",
-    "answer" : "Aby ustawić harmonogram przyjmowania leków:\n\n1. Otwórz aplikację i przejdź do przycisku ‘Nowy lek’.\n2. Wprowadź nazwę leku, częstotliwość i rodzaj.\n3. Ustaw konkretne godziny, o których musisz przyjmować lek.\n4. Zapisz harmonogram. Aplikacja teraz przypomni ci o przyjmowaniu leku w określonym dniu tygodnia i godzinie.",
+    "level" : 1,
+    "sortOrder" : 1,
     "linkType" : "none",
-    "level" : 1
-  },
-  {
-    "linkType" : "none",
-    "sortOrder" : 6,
-    "answer" : "Jeśli pominiesz dawkę, PillMemo nie wyśle dodatkowego przypomnienia, chyba że przytrzymasz odpowiednie powiadomienie palcem (pojawią się opcje drzemki dla przypomnień). Nie możesz również zalogować pominiętej dawki w aplikacji (to jest planowane w przyszłych wydaniach).",
-    "question" : "Co jeśli pominę dawkę?",
-    "level" : 1
+    "question" : "Czym jest PillMemo?",
+    "answer" : "PillMemo to aplikacja mobilna zaprojektowana, aby pomóc użytkownikom zarządzać ich harmonogramem przyjmowania leków, dostarczając terminowe przypomnienia o przyjęciu lekarstwa. PillMemo jest dostępna na urządzenia z systemem iOS i ma na celu poprawę zgodności z zaleceniami dotyczącymi leków oraz ogólnego stanu zdrowia."
   },
   {
     "level" : 1,
+    "sortOrder" : 2,
     "linkType" : "none",
+    "question" : "Jak mogę ustawić mój harmonogram przyjmowania leku?",
+    "answer" : "Aby ustawić harmonogram przyjmowania leku:\n\n1. Otwórz aplikację i przejdź do przycisku ‘Nowy lek’.\n2. Wprowadź nazwę leku, częstotliwość i rodzaj.\n3. Ustaw konkretną godzinę, o której musisz przyjmować lek.\n4. Zapisz harmonogram. Aplikacja teraz przypomni ci o przyjmowaniu leku w określonym dniu tygodnia i godzinie."
+  },
+  {
+    "level" : 1,
+    "sortOrder" : 3,
+    "linkType" : "none",
+    "question" : "Czy mogę dodać wiele leków?",
+    "answer" : "Tak, możesz dodać wiele leków. Każdy lek może mieć swój własny harmonogram i ustawienia przypomnień. Po prostu powtórz proces w sekcji ‘Nowy lek’ dla każdego nowego leku.\n UWAGA! Opcja dostępna w wersji Premium aplikacji PillMemo."
+  },
+  {
+    "level" : 1,
+    "sortOrder" : 4,
+    "linkType" : "none",
+    "question" : "Jak mogę edytować lub usunąć lek?",
+    "answer" : "Aby edytować lub usunąć lek:\n\n1. Przejdź do sekcji ‘Strona główna’.\n2. Wybierz lek, który chcesz edytować lub usunąć.\n3. Jeśli chcesz edytować dane, zmień, co potrzebujesz (nazwę, częstotliwość, rodzaj, czas itp.).\n4. Stuknij przycisk ‘Gotowe’, aby zapisać zmiany, lub ikonę usuwania '🗑️', aby usunąć lek z listy."
+  },
+  {
+    "level" : 1,
+    "sortOrder" : 5,
+    "linkType" : "none",
+    "question" : "Jakie rodzaje przypomnień oferuje PillMemo?",
+    "answer" : "PillMemo oferuje ‘powiadomienia push’, które możesz dostosować bezpośrednio dla odpowiedniego leku w sekcji ‘Strona główna’. Opcje drzemki dla przypomnień są dwie do wyboru - ‘Przypomnij za 15 minut’ i ‘Przypomnij za 30 minut’, jeśli przytrzymasz odpowiednie powiadomienie palcem."
+  },
+  {
+    "level" : 1,
+    "sortOrder" : 6,
+    "linkType" : "none",
+    "question" : "Co jeśli pominę dawkę leku?",
+    "answer" : "Jeśli pominiesz dawkę, PillMemo nie wyśle dodatkowego przypomnienia, chyba, że przytrzymasz odpowiednie powiadomienie palcem (pojawią się opcje drzemki dla przypomnień). PillMemo nie zapisuje pominiętych dawek leków."
+  },
+  {
+    "level" : 1,
+    "sortOrder" : 7,
+    "linkType" : "none",
+    "question" : "Czy mogę synchronizować PillMemo z innymi urządzeniami?",
+    "answer" : "Obecnie PillMemo wspiera synchronizację z kontem iCloud. Aby to włączyć:\n\n1. Upewnij się, że zsynchronizowałeś swoje konto iCloud z urządzeniem.\n2. Przejdź do widoku ‘Strona główna’.\n3. Przełączaj między zakładkami i poczekaj kilka minut w widoku 'Strona główna'. Po tej czynności dane zostaną zsynchronizowane, a integracja zostanie zakończona."
+  },
+  {
+    "level" : 1,
     "sortOrder" : 8,
+    "linkType" : "none",
     "question" : "Jak bezpieczne są moje dane?",
     "answer" : "Twoje dane osobowe i informacje o lekach są bezpiecznie przechowywane na twoim urządzeniu i nie są udostępniane osobom trzecim bez twojej zgody."
   },
   {
-    "level" : 1,
-    "sortOrder" : 1,
-    "linkType" : "none",
-    "answer" : "PillMemo to aplikacja mobilna zaprojektowana, aby pomóc użytkownikom zarządzać ich harmonogramem przyjmowania leków, dostarczając terminowe przypomnienia o przyjęciu lekarstwa. PillMemo jest dostępna na urządzenia z systemem iOS i ma na celu poprawę zgodności z zaleceniami dotyczącymi leków oraz ogólnego stanu zdrowia.",
-    "question" : "Czym jest PillMemo?"
-  },
-  {
-    "sortOrder" : 7,
-    "linkType" : "none",
-    "answer" : "Obecnie PillMemo wspiera synchronizację z kontem iCloud. Aby to włączyć:\n\n1. Upewnij się, że zsynchronizowałeś swoje konto iCloud z urządzeniem.\n2. Przejdź do widoku ‘Strona główna’.\n3. Przełączaj między zakładkami i poczekaj kilka minut w widoku Strona główna. Po tej czynności dane zostaną zsynchronizowane, a integracja zostanie zakończona.",
-    "level" : 1,
-    "question" : "Czy mogę synchronizować PillMemo z innymi urządzeniami?"
-  },
-  {
-    "linkType" : "none",
-    "sortOrder" : 1,
     "level" : 2,
+    "sortOrder" : 1,
+    "linkType" : "none",
     "question" : "Jak mogę skontaktować się z pomocą techniczną, jeśli mam problemy z PillMemo?",
     "answer" : "Jeśli napotkasz jakiekolwiek problemy lub masz pytania, możesz skontaktować się z naszym zespołem wsparcia poprzez PillMemo:\n\n1. Otwórz aplikację i przejdź do zakładki ‘Ustawienia’ i stuknij sekcję ‘Pomoc e-mail’.\n2. Wypełnij formularz kontaktowy lub użyj podanego adresu e-mail, aby skontaktować się z naszym zespołem wsparcia."
   },
   {
-    "answer" : "Aby edytować lub usunąć lek:\n\n1. Przejdź do sekcji ‘Strona główna’.\n2. Wybierz lek, który chcesz edytować lub usunąć.\n3. Jeśli chcesz edytować dane, zmień, co potrzebujesz (nazwę, częstotliwość, rodzaj, czas itp.).\n4. Stuknij przycisk ‘Gotowe’, aby zapisać zmiany, lub ikonę usuwania, aby usunąć lek z listy.",
-    "linkType" : "none",
-    "level" : 1,
-    "question" : "Jak mogę edytować lub usunąć lek?",
-    "sortOrder" : 4
-  },
-  {
-    "answer" : "Tak, możesz dodać wiele leków. Każdy lek może mieć swój własny harmonogram i ustawienia przypomnień. Po prostu powtórz proces w sekcji ‘Nowy lek’ dla każdego nowego leku.",
-    "linkType" : "none",
-    "sortOrder" : 3,
-    "level" : 1,
-    "question" : "Czy mogę dodać wiele leków?"
-  },
-  {
-    "level" : 1,
-    "answer" : "PillMemo oferuje ‘powiadomienia push’, które możesz dostosować bezpośrednio dla odpowiedniego leku w sekcji ‘Strona główna’. Opcje drzemki dla przypomnień są dwie do wyboru - ‘Przypomnij za 15 minut’ i ‘Przypomnij za 30 minut’, jeśli przytrzymasz odpowiednie powiadomienie palcem.",
-    "sortOrder" : 5,
-    "linkType" : "none",
-    "question" : "Jakie rodzaje przypomnień oferuje PillMemo?"
-  },
-  {
-    "sortOrder" : 2,
-    "answer" : "Obecnie PillMemo oferuje darmową wersję z podstawowymi funkcjami. Istnieje opcja wsparcia dewelopera poprzez wysłanie darowizny zlokalizowanej w widoku ‘Strona główna’. Funkcje premium będą rozważane w przyszłych wydaniach.",
     "level" : 2,
+    "sortOrder" : 2,
     "linkType" : "none",
-    "question" : "Czy PillMemo jest darmowe?"
+    "question" : "Czy PillMemo jest darmowe?",
+    "answer" : "Obecnie PillMemo oferuje darmową wersję z dodaniem jednego leku z podstawowymi funkcjami. Funkcje 'Premium' opisane są w sekcji 'Kup PillMemo Pro'. Istnieje również opcja wsparcia dewelopera w formie 'skarbonki' zlokalizowanej w widoku ‘Strona główna’."
   }
 ]
